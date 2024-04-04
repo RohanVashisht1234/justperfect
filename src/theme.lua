@@ -53,3 +53,4 @@ style.divider      = { common.color "#1e1e1e" }   -- tested ok
 style.line_number  = { common.color "#55555590" } -- tested ok
 style.line_number2 = { common.color "#555555" }   -- tested ok
 ---
+
