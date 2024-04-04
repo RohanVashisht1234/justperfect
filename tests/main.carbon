@@ -8,4 +8,3 @@ fn main(){
   Print(name);
   Print("And, my age is: {0}", age);
 }
-
