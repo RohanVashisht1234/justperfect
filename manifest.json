@@ -1,5 +1,6 @@
 {
-    "id" : "justperfect",
+    "addons":[
+    {"id" : "justperfect",
     "mod_version" : "3.0.0",
     "name" : "justperfect",
     "path":"src/theme.lua",
@@ -7,5 +8,6 @@
        "dark"
     ],
     "type" : "color",
-    "version" : "0.1"
+    "version" : "0.1"}
+]
 }
